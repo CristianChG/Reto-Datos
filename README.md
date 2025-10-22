@@ -1,5 +1,7 @@
 # Reto-Datos
 
+El notebook importante es el se datos de ordeña de todas las vacas ya que ahí estan todos los datos que utilizaremos
+
 Kevin Alejandro Ramírez Luna 	|	A01711063
 
 Diego Antonio García Padilla 		| 	A01710777
