@@ -1,5 +1,7 @@
 # Reto-Datos
 
+Hacemos el k-folds en el archivo RF_CV.
+
 Kevin Alejandro Ramírez Luna 	|	A01711063
 
 Diego Antonio García Padilla 		| 	A01710777
